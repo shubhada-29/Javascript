@@ -20,5 +20,6 @@ let state;
 console.log(typeof "shubhada");
 console.log(typeof age);
 
-console.log(typeof undefined);
-console.log(typeof null);
+console.log(typeof undefined);   //undefined
+console.log(typeof null);        //object
+
